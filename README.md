@@ -30,6 +30,8 @@ you will need to pip install:
 - keras
 - [imageai](https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.2/imageai-2.0.2-py3-none-any.whl)
 
+download [training set](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/resnet50_coco_best_v2.0.1.h5)
+
 images have been gitignored, download an image with traffic and move it to root call it `image.jpg`
 
 try out `python3 FirstDetection.py`
